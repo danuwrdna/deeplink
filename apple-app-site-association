@@ -1,0 +1,20 @@
+{
+  "applinks":{
+    "apps":[
+       
+    ],
+    "details":[
+      {
+        "appIDs":[
+          "PT Cahaya Tekno Digital.id.gethome.myhome"
+        ],
+        "components":[
+          {
+            "/":"/login",
+            "comment":"Matches URL with a path /login"
+          }
+        ]
+      }
+    ]
+  }
+}
